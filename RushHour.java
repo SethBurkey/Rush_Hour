@@ -6,7 +6,7 @@ import java.util.Scanner;
 import java.util.Stack;
 import java.util.HashMap;
 
-public class rushhour {
+public class RushHour {
 	/**
 	 * @param args
 	 * This program reads the input from a file and saves each car/truck's data in a hashmap of custom Vehicle Objects
