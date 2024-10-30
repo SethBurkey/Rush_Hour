@@ -12,6 +12,7 @@ red car in the sample input occupies (3,2) and (3,3) since it is horizontal and 
 Note: in the input the matrix dimensions are numbered 1-6; thus (1,1) is the upper left
 corner. Also, the FIRST vehicle in the input must be the “red” car.
 
+(This sample input is copied into input.txt)
 Sample Input:
 8
 car
